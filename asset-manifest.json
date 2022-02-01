@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36168938.css",
+    "main.js": "/static/js/main.c0b47200.js",
+    "static/js/787.b205ffab.chunk.js": "/static/js/787.b205ffab.chunk.js",
+    "static/media/fontawesome.woff2": "/static/media/fontawesome.1f49a99d91c72cb5fe15.woff2",
+    "index.html": "/index.html",
+    "main.36168938.css.map": "/static/css/main.36168938.css.map",
+    "main.c0b47200.js.map": "/static/js/main.c0b47200.js.map",
+    "787.b205ffab.chunk.js.map": "/static/js/787.b205ffab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36168938.css",
+    "static/js/main.c0b47200.js"
+  ]
+}
